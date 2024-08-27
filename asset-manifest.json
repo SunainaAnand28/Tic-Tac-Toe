@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe/static/css/main.07b8f39c.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.e51847b5.js",
+    "static/media/tic-tac-toe-game-texture-hand-drawn-seamless-cross-shapes-pattern-black-elements-on-white-background-2GGD3MM.jpg": "/Tic-Tac-Toe/static/media/tic-tac-toe-game-texture-hand-drawn-seamless-cross-shapes-pattern-black-elements-on-white-background-2GGD3MM.eb4e76fe0451faec598b.jpg",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.07b8f39c.css.map": "/Tic-Tac-Toe/static/css/main.07b8f39c.css.map",
+    "main.e51847b5.js.map": "/Tic-Tac-Toe/static/js/main.e51847b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b8f39c.css",
+    "static/js/main.e51847b5.js"
+  ]
+}
